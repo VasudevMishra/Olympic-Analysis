@@ -1,5 +1,3 @@
-Here's the formatted `README.md` with proper headings and symbols to make it visually appealing on GitHub:
-
 ---
 
 # Olympic Athletes Data Analysis
